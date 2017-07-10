@@ -8,9 +8,9 @@ $(document).ready( function(){
 $( "p" ).append( "<strong>Nuevas recetas</strong>" );
 });
 
-
 	//La variable "recipesArray" esta declarada en el archivo "data/recipes.js"
 	renderHighlightedRecipes(recipesArray);
+
 
 
 /*
